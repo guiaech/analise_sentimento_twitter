@@ -5,7 +5,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
-## analise_sentimento_twitter
+## Análise de sentimentos de tweets com machine learning
 Este projeto tem a intenção com uso de machine learning com a linguagem python, fazer uma análise de sentimentos de tweets reais. Foi usado um banco de dados já classificado
 para o treino do modelo de predição fornecido pelo Governo de MG. Após o treino e verificadas as métricas foi usada a API do Twitter para busca de palavras chaves, como
 o banco de dados de treinamento é com viés político os dados análisados também foram políticos. Para análise foi selecionada os dois principais nomes da corrida presidencial
